@@ -1,21 +1,24 @@
 # Titanic Cleaning & Analysis 🚢
 
-A small project to practice **data cleaning** and basic **data analysis** in Python using the classic [Titanic dataset](https://www.kaggle.com/c/titanic).
+A small project to practice **data cleaning** and basic **exploratory analysis** in Python using the classic Titanic dataset.
+
+---
 
 ## 📂 Project Structure
-- `Titanic_CleaningTest.ipynb` – Jupyter Notebook with all the code and explanations
+- `Titanic_Cleaning.ipynb` – Jupyter Notebook with all the code and explanations
 
 ## 🛠️ Tools & Libraries
-- Python 3
+- Python 3.13.4
 - pandas
-- numpy
-- matplotlib / seaborn (if you used them)
 
 ## 🔑 Key Steps
-1. Load and inspect the dataset
-2. Handle missing values
-3. Feature cleaning (e.g. names, age groups)
-4. Basic exploratory analysis and visualizations
+- Load and inspect the dataset
+- Handle missing values
+- Feature cleaning (e.g. names, age groups)
+- Basic exploratory analysis and simple visualizations
+
+## 📊 Result
+- Final cleaned dataset: 891 passengers, 10 features ready for modeling
 
 ## 💡 Learnings
 - Practical experience cleaning real-world data
@@ -23,4 +26,5 @@ A small project to practice **data cleaning** and basic **data analysis** in Pyt
 
 ---
 
-> 📢 *Next step:* apply simple machine-learning models (e.g. logistic regression) for survival prediction.
+📢 **Note**: This repository focuses on data cleaning.  
+For advanced visualization and machine learning models, see [Titanic_v2](link).(IN PROGRESS)
