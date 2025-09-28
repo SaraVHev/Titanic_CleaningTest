@@ -15,7 +15,7 @@ A small project to practice **data cleaning** and basic **exploratory analysis**
 - Load and inspect the dataset
 - Handle missing values
 - Feature cleaning (e.g. names, age groups)
-- Basic exploratory analysis and simple visualizations
+- Basic exploratory analysis
 
 ## 📊 Result
 - Final cleaned dataset: 891 passengers, 10 features ready for modeling
@@ -27,4 +27,6 @@ A small project to practice **data cleaning** and basic **exploratory analysis**
 ---
 
 📢 **Note**: This repository focuses on data cleaning.  
-For advanced visualization and machine learning models, see [Titanic_v2](link).(IN PROGRESS)
+For advanced visualization and machine learning models, see [Titanic_v2](link).
+(IN PROGRESS)
+
